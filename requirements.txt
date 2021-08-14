@@ -1,0 +1,6 @@
+telebot==0.0.4
+requests==2.26.0
+matplotlib==3.4.3
+beautifulsoup4==4.9.3
+lxml
+pyTelegramBotAPI==3.8.1
