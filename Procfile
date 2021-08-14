@@ -1,1 +1,1 @@
-worker: python Bitcoin.py
+worker: python main.py
